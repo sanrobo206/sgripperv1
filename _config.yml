@@ -1,10 +1,9 @@
-title: sGRIPPER v.1 - Sanatan
-description: High-precision MGN 7 rail cam-based robotic end-effector.
+title: "sGRIPPER v.1 - Sanatan"
+description: "High-precision MGN 7 rail cam-based robotic end-effector."
 remote_theme: jekyll/minima
 show_excerpts: false
 
 # Build settings
 markdown: kramdown
-theme: minima
 plugins:
   - jekyll-feed
