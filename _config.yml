@@ -1,0 +1,11 @@
+title: sGRIPPER v.1 - Sanatan
+description: Technical analysis of the sGRIPPER v.1 robotic end-effector.
+remote_theme: jekyll/minima
+google_analytics: 
+show_excerpts: false
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
