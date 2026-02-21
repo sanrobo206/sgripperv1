@@ -109,7 +109,7 @@ title: sGRIPPER v.1
       </div>
 
       <div style="text-align: center;">
-        <a href="https://sanrobo206.github.io" class="cta-button">RETURN TO PROJECT HUB</a>
+        <a href="https://sanrobo206.github.io/sanrobotv1/" class="cta-button">RETURN TO PROJECT HUB</a>
       </div>
     </section>
   </div>
